@@ -1,0 +1,11 @@
+table,th,td{
+    border: 1px solid black;
+/* background-color: brown; */
+}
+.q{
+background-color: rgb(179, 255, 0);
+
+}
+.w{
+    background-color: rgb(13, 201, 13);
+}
