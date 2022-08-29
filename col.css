@@ -3,10 +3,15 @@ table,th,td{
 /* background-color: brown; */
 }
 .q{
-background-color: rgb(179, 255, 0);
+background-color: red;
+
 
 }
-.w:hover{
+.w{
     background-color: rgb(13, 201, 13);
-    color: aqua;
+ 
+}
+.e{
+    background-color: blue;
+
 }
